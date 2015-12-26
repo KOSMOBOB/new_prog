@@ -1,2 +1,2 @@
-print(goodbaye)
-print(goodbay for all)
+print(goodbaye;)
+print(goodbay for all;)
